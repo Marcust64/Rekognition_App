@@ -1,16 +1,13 @@
-# Ignore AWS credentials
 .env
 *.pem
 *.key
 
-# Ignore Python cache and virtual env
 __pycache__/
 *.pyc
 .venv/
 env/
 venv/
 
-# Ignore OS or IDE clutter
 .DS_Store
 *.log
 .idea/
